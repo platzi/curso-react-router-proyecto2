@@ -28,6 +28,11 @@ function useTodos() {
     });
   }
 
+  const getTodo = (id) => {
+    const todo = todos.find(todo => todo.id === id);
+    console.log({ todo });
+    return todo;
+  };
   
   const addTodo = (text) => {
     const idList = todos.map(todo => todo.id);
@@ -74,6 +79,7 @@ function useTodos() {
   
   const stateUpdaters = {
     setSearchValue,
+    getTodo,
     addTodo,
     completeTodo,
     editTodo,
