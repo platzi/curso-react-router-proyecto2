@@ -14,7 +14,7 @@ function TodoForm(props) {
   };
   const onSubmit = (event) => {
     event.preventDefault();
-    props.submitEvent();
+    props.submitEvent({ text: newTodoValue });
     navigate('/');
   };
 
@@ -38,7 +38,7 @@ function TodoForm(props) {
           type="submit"
           className="TodoForm-button TodoForm-button--add"
         >
-          Añadir
+          {props.submitButtonText || 'Añadir'}
         </button>
       </div>
     </form>
