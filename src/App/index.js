@@ -21,7 +21,6 @@ function App() {
     loading,
     searchedTodos,
     totalTodos,
-    completeTodo,
     completedTodos,
     openModal,
     searchValue,
@@ -30,6 +29,7 @@ function App() {
   const {
     setOpenModal,
     addTodo,
+    completeTodo,
     deleteTodo,
     setSearchValue,
     sincronizeTodos,
