@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/curso-react-router-proyecto2/static/css/main.12d4fbcb.chunk.css",
+    "main.js": "/curso-react-router-proyecto2/static/js/main.5fbf64d1.chunk.js",
+    "main.js.map": "/curso-react-router-proyecto2/static/js/main.5fbf64d1.chunk.js.map",
+    "runtime-main.js": "/curso-react-router-proyecto2/static/js/runtime-main.55dcab5f.js",
+    "runtime-main.js.map": "/curso-react-router-proyecto2/static/js/runtime-main.55dcab5f.js.map",
+    "static/js/2.54ad664e.chunk.js": "/curso-react-router-proyecto2/static/js/2.54ad664e.chunk.js",
+    "static/js/2.54ad664e.chunk.js.map": "/curso-react-router-proyecto2/static/js/2.54ad664e.chunk.js.map",
+    "index.html": "/curso-react-router-proyecto2/index.html",
+    "static/css/main.12d4fbcb.chunk.css.map": "/curso-react-router-proyecto2/static/css/main.12d4fbcb.chunk.css.map",
+    "static/js/2.54ad664e.chunk.js.LICENSE.txt": "/curso-react-router-proyecto2/static/js/2.54ad664e.chunk.js.LICENSE.txt",
+    "static/media/check.fa4fb594.svg": "/curso-react-router-proyecto2/static/media/check.fa4fb594.svg",
+    "static/media/delete.331149da.svg": "/curso-react-router-proyecto2/static/media/delete.331149da.svg",
+    "static/media/edit.8cfd1d84.svg": "/curso-react-router-proyecto2/static/media/edit.8cfd1d84.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55dcab5f.js",
+    "static/js/2.54ad664e.chunk.js",
+    "static/css/main.12d4fbcb.chunk.css",
+    "static/js/main.5fbf64d1.chunk.js"
+  ]
+}
