@@ -1,5 +1,5 @@
 {
-  "name": "curso-intro-react",
+  "name": "curso-react-router-proyecto2",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -41,5 +41,5 @@
   "devDependencies": {
     "gh-pages": "^3.2.3"
   },
-  "homepage": "https://platzi.github.io/curso-intro-react"
+  "homepage": "https://platzi.github.io/curso-react-router-proyecto2"
 }
